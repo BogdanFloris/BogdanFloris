@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Bogdan, a software engineer and technology enthusiast with 3+ years of experience in building robust software products using the best practices. I enjoy mountains and skiing in particular, playing my guitars, and watching TV shows and movies.
 
-* 👨🏼‍💻 Software Engineer at @bloomberg
+* 👨🏼‍💻 Software Engineer at @datacamp
 * 🏠 Living in Bucharest, Romania
 * 📫 Contact me on: bogdan.floris@gmail.com
 * 🌍 Website (under construction): bogdanfloris.com
