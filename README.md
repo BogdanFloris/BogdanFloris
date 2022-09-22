@@ -20,4 +20,4 @@ I'm Bogdan, a software engineer and technology enthusiast with 4+ years of exper
 * 👨🏼‍💻 Senior Software Engineer at @datacamp
 * 🏠 Living in Bucharest, Romania
 * 📫 Contact me on: bogdan.floris@gmail.com
-* 🌍 Website (under construction): https://bogdanfloris.com
+* 🌍 Website (under construction): https://www.bogdanfloris.com
