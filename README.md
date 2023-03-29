@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Bogdan 👋
 
 <!--
 **BogdanFloris/BogdanFloris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Bogdan, a software engineer and technology enthusiast with 4+ years of experience in building robust software products using the best practices. I enjoy mountains and skiing in particular, playing my guitars, and watching TV shows and movies.
+As a senior software engineer with over four years of experience, I specialize in building dependable software products using proven practices. My go-to technologies include Typescript, Python, Go, and C++. When I'm not coding, I love hitting the slopes for some skiing, playing my guitars, and watching TV shows and movies.
 
 * 👨🏼‍💻 Senior Software Engineer at @datacamp
 * 🏠 Living in Bucharest, Romania
