@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As a senior software engineer with over four years of experience, I specialize in building dependable software products using proven practices. My go-to technologies include Typescript, Python, Go, and C++. When I'm not coding, I love hitting the slopes for some skiing, playing my guitars, and watching TV shows and movies.
+As a senior software engineer with over four years of experience, I specialize in building dependable software products using proven practices. My go-to technologies include Typescript, Python, Go, and C++. For UI/UX, I like to go for React or NextJS. When I'm not coding, I love hitting the slopes for some skiing, playing my guitars, and watching TV shows and movies.
 
 * 👨🏼‍💻 Senior Software Engineer at @datacamp
 * 🏠 Living in Bucharest, Romania
