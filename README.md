@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-With more than four years of seasoned expertise as a Senior Software Engineer, I focus on crafting reliable software solutions utilizing established methodologies. I primarily work with technologies such as Typescript, Python, Go, and C++. For UI/UX design, I typically prefer React or HTMX. I've also recently started to build systems programming projects, mostly in Rust and Zig. Outside the realm of programming, I relish my time on the ski slopes, enjoy strumming on my guitars, and unwind by indulging in movies and TV shows.
+With six years of expertise as a Software Engineer, I focus on crafting reliable software solutions utilizing established methodologies. I primarily work with technologies such as Typescript, C++, Python, and Java/Kotlin. For UI/UX design, I typically prefer React or HTMX. I've also recently started to build systems programming projects, mostly in Rust and Zig. Outside the realm of programming, I relish my time on the ski slopes, enjoy strumming on my guitars, and unwind by indulging in movies and TV shows.
 
-* 👨🏼‍💻 Senior Software Engineer at @datacamp
+* 👨🏼‍💻 Software Engineer @google
 * 🏠 Living in Bucharest, Romania
 * 📫 Contact me on: bogdan.floris@gmail.com
 * 🌍 Website (under construction): [bogdanfloris.com](https://www.bogdanfloris.com/)
