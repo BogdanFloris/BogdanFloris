@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-With six years of expertise as a Software Engineer, I focus on crafting reliable software solutions utilizing established methodologies. I primarily work with technologies such as Typescript, C++, Python, and Java/Kotlin. For UI/UX design, I typically prefer React or HTMX. I've also recently started to build systems programming projects, mostly in Rust and Zig. Outside the realm of programming, I relish my time on the ski slopes, enjoy strumming on my guitars, and unwind by indulging in movies and TV shows.
+Software Engineer with 6+ years of experience building reliable, high-performance solutions. Currently specializing in the Android Platform, architecting tracing tools strictly optimized for minimal CPU and memory overhead. Previously contributed to the DataCamp platform. Proficient across the stack with deep expertise in C++, Rust, TypeScript, and Python.
 
 * 👨🏼‍💻 Software Engineer @google
 * 🏠 Living in Bucharest, Romania
